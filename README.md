@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs and nuking repos since 2021<br>📚 I'm currently learning React and AWS<br>🎯 I'm currently working on Jamit<br>📧 chaitanya.vengali@gmail.com</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AWS and Spring<br>🎯 I'm currently working on JamBox - A platform to book and manage jobrooms/recording studios<br>📧 chaitanya.vengali@gmail.com</p>
 
 ###
 
